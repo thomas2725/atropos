@@ -72,7 +72,6 @@ We have been able to achieve significant improvements on specific domains or tas
 Model Artifact:
 https://huggingface.co/NousResearch/DeepHermes-ToolCalling-Specialist-Atropos
 
-
 Environment Used:
 [https://github.com/NousResearch/Atropos/environments/tool_calling_server.py](https://github.com/NousResearch/atropos/blob/main/environments/tool_calling_server.py)
 
@@ -113,7 +112,6 @@ Environment Used: [https://github.com/NousResearch/atropos/blob/main/environment
 ---
 
 ## Navigating the Repo
-
 | Category | Description |
 |----------|------------|
 | 📁 [`atroposlib/`](atroposlib/) | Core library containing base classes and utilities |
@@ -155,7 +153,6 @@ pre-commit install
 ```
 
 ---
-
 ### Quick Start Guide
 
 1. **Create Your First Environment**
